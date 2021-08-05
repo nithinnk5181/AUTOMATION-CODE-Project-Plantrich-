@@ -1,0 +1,20 @@
+{
+  "test_Add_Storage_stock.py": true, 
+  "test_Add_product.py": true, 
+  "test_ApproveRequisition.py": true, 
+  "test_ApproveVendor.py": true, 
+  "test_Approve_Product.py": true, 
+  "test_Approve_Quote.py": true, 
+  "test_Approve_Storage.py": true, 
+  "test_Confirm_PO.py": true, 
+  "test_CreateQuotes.py": true, 
+  "test_CreateRequisition.py": true, 
+  "test_Create_PO.py": true, 
+  "test_Create_material_QC.py": true, 
+  "test_Generate_purchase_bill.py": true, 
+  "test_Pay_purchase_bill.py": true, 
+  "test_create_vendor.py": true, 
+  "test_login.py": true, 
+  "test_material_inward.py": true, 
+  "test_material_storage.py": true
+}
